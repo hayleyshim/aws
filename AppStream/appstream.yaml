@@ -11,9 +11,9 @@ Conditions:
 
 Mappings:
   RegionMap:
-    ap-northeast-2:
+    ap-northeast-2: #서울 리전. 변경하고 싶은 region으로 변경
       az1: apne2-az1
-      az2: apne2-az1
+      az2: apne2-az2
 
 Resources:
   iamAmazonAppStreamServiceAccess:
